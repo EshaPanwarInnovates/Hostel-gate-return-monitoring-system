@@ -1,0 +1,68 @@
+date,gate,register,student,room,destination,purpose,vehicle,own_risk,out_time,return_by,in_time,guard_out,guard_in,note
+17/11/26,Gate4,jhalwa,S01,621,Jhalwa,,,,12:21,,12:45,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S02,519,Jhalwa,,,,12:21,,12:45,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S03,621,Jhalwa,,,,12:23,,12:45,Pandey,Pandey,name corrected in register
+17/11/26,Gate4,jhalwa,S04,376,Jhalwa,,,,12:44,,12:50,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S05,820,Jhalwa,,,,12:56,,1:18,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S06,812,Jhalwa,,,,12:57,,1:18,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S07,850,Jhalwa,,,,1:00,,1:03,Pandey,Pandey,out time overwritten (earlier time crossed out)
+17/11/26,Gate4,jhalwa,S08,636,Jhalwa,,,,1:00,,1:40,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S09,615,Jhalwa,,,,1:00,,1:40,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S10,616,ditto,,,,1:00,,1:40,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S11,827,ditto,,,,1:07 pm,,2:40,Pandey,guard_2,
+17/11/26,Gate4,jhalwa,S12,825,Jhalwa,,,,1:08 pm,,2:40,Pandey,guard_2,
+17/11/26,Gate4,jhalwa,S13,822,ditto,,,,1:10 pm,,7:20,Pandey,Pandey,in time unclear: 1:20 or 7:20
+17/11/26,Gate4,jhalwa,S14,108-B,Jhalwa,,,,1:21,,1:37,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S15,108-B,ditto,,,,1:21,,1:37,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S16,312,ditto,,,,1:22,,1:27,Pandey,Pandey,
+17/11/26,Gate4,jhalwa,S17,203,Jhalwa,,,,1:22,,1:25,Pandey,Pandey,date overwritten (18 or 17)
+17/11/26,Gate4,jhalwa,S18,526,Jhalwa,,,,1:25,,2:00,Pandey,Pandey,in time overwritten 1:27 -> 2:00
+17/11/26,Gate4,jhalwa,S19,625,Jhalwa,,,,1:59,,2:47,Pandey,guard_2,
+17/11/26,Gate4,jhalwa,S20,541,Jhalwa,,,,2:22,,2:42,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S21,542,Jhalwa,,,,2:44,,2:48,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S22,820,Jhalwa,,,,2:45,,2:48,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S23,640,Jhalwa,,,,3:45,,3:15,guard_2,guard_2,out time overwritten (2:45 or 3:45)
+17/11/26,Gate4,jhalwa,S24,518,ditto,,,,2:47,,3:15,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S25,828,ditto,,,,2:55,,3:03,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S26,306,Jhalwa,,,,3:02,,3:07,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S14,108-B,ditto,,,,3:09,,3:06,guard_2,,same student's second trip; in before out; no guard sign on return
+17/11/26,Gate4,jhalwa,S27,653,Jhalwa,,,,3:45,,4:13,guard_2,,in time unclear; no guard sign on return
+17/11/26,Gate4,jhalwa,S28,807,Jhalwa,,,,3:49,,4:08,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S29,847,ditto,,,,3:53,,4:03,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S30,851,ditto,,,,3:53,,4:03,guard_2,guard_2,
+17/11/26,Gate4,jhalwa,S31,609,ditto,,,,3:56,,4:02,guard_2,guard_2,date written incomplete (11/26)
+17/11/26,Gate4,jhalwa,S32,535,ditto,,,,3:56,,4:28,guard_2,guard_2,date written incomplete
+17/11/26,Gate4,jhalwa,S33,702,ditto,,,,4:00,,4:10 pm,guard_2,guard_2,date written incomplete
+21/08/26,GH3,civil_lines,S34,815,Jhalwa,Food,Walk,Own,5:25 pm,6:30 pm,,,,date unclear (21 or 27); return_by unclear (6:20 or 6:30)
+27/08/26,GH3,civil_lines,S35,807,Civil Lines,Shopping,Bus,Own,5:34 pm,6:15 pm,,,,
+27/8/26,GH3,civil_lines,S36,635,Civil Lines,ditto,ditto,ditto,5:13 pm,6:15 pm,,,,
+ditto,GH3,civil_lines,S37,623,ditto,ditto,ditto,ditto,5:10,6:10 pm,10:00 pm,,,
+ditto,GH3,civil_lines,S38,624,ditto,ditto,ditto,ditto,,,10.00 pm,,,out time written only as a ditto mark
+,GH3,civil_lines,S39,702,,,,,,,,,,whole entry crossed out
+24/8/26,GH3,civil_lines,S40,640,CL,VIP,Dy,own,1:00 pm,6:00 pm,12:00 pm,,,out time overwritten; arrival first digits overwritten (10:00 or 12:00?); purpose/vehicle unclear; date out of order
+28/8/26,GH3,civil_lines,S41,838,C.L,Shopping,Auto,Yes,12:48 pm,4:00 pm,10 pm,,,
+ditto,GH3,civil_lines,S42,836,C.L,ditto,ditto,ditto,12:50 pm,4 pm,ditto,,,arrival written as ditto mark
+ditto,GH3,civil_lines,S43,724,C.L,ditto,ditto,ditto,12:50 pm,4 pm,,,,
+ditto,GH3,civil_lines,S44,529,C.L,ditto,Bus,Yes,1:30 pm,6:00 pm,10:20 PM,,,
+ditto,GH3,civil_lines,S45,582,Civil Lines,ditto,Bus,Yes,1:30 pm,6:10 pm,10:20 PM,,,return_by unclear (6:10 or 8:10)
+ditto,GH3,civil_lines,S46,711,Civil Lines,ditto,Bus,yes,4:30 pm,6:00 pm,10:18 pm,,,
+ditto,GH3,civil_lines,S47,711,ditto,ditto,ditto,ditto,4:30 pm,6:00 pm,10:18 pm,,,same room as row above
+ditto,GH3,civil_lines,S48,804,Civil Lines,ditto,ditto,Yes,4:47 pm,5:30 pm,10:10 pm,,,
+ditto,GH3,civil_lines,S49,FF001,ditto,ditto,ditto,Yes,5:01 pm,5:30 pm,,,,
+ditto,GH3,civil_lines,S50,538,Civil Lines,ditto,Bus,Yes,5:09 PM,6:00 PM,10:20 PM,,,
+ditto,GH3,civil_lines,S51,704,Jhalwa,ditto,Self,Yes,5:10 pm,6:30 pm,,,,
+ditto,GH3,civil_lines,S52,757,Civil Lines,Dinner,Bus,yes,5:20 pm,6:00 pm,9:54 PM,,,
+ditto,GH3,civil_lines,S53,757,Civil Lines,ditto,Bus,yes,5:20 pm,6:00 pm,9:54 PM,,,same room as row above
+ditto,GH3,civil_lines,S54,840,Jhalwa,Dinner,Self,Yes,5:20 pm,7:00 pm,,,,
+ditto,GH3,civil_lines,S55,611,Civil Lines,Shopping,Bus,Yes,5:45 PM,6:10 PM,,,,
+ditto,GH3,civil_lines,S56,812,Civil Lines,Shopping,Bus,Yes,5:45 PM,6:10 PM,10:00 PM,,,
+ditto,GH3,civil_lines,S57,501,ditto,ditto,Auto,ditto,2:30 PM,2:00 PM,9:00 PM,,,return_by earlier than out time; arrival written as 900 PM
+ditto,GH3,civil_lines,S58,709,ditto,ditto,ditto,ditto,2:30 PM,2:00 PM,9:00 PM,,,return_by earlier than out time
+ditto,GH3,civil_lines,S59,734,ditto,ditto,ditto,yes,3:00 pm,3:30 pm,,,,
+ditto,GH3,civil_lines,S60,607,ditto,ditto,ditto,yes,3:09 pm,4 pm,,,,
+ditto,GH3,civil_lines,S61,502,ditto,ditto,ditto,ditto,3:10 pm,6 pm,,,,
+ditto,GH3,civil_lines,S62,804,Civil Lines,Shopping,Bus,Yes,7:21 pm,6:15 pm,10:13 pm,,,out time first digit overwritten; 10:13 pm may belong to the row above
+29/8/26,GH3,civil_lines,S63,610,ditto,Dinner,Bus,ditto,5:15,6:00 pm,8:00 pm,,,arrival overwritten
+ditto,GH3,civil_lines,S64,549,ditto,ditto,ditto,ditto,5:30,6:00 pm,10:30 pm,,,
+ditto,GH3,civil_lines,S65,807,ditto,ditto,ditto,ditto,5:20,7:00 PM,,,,
+ditto,GH3,civil_lines,S35,807,ditto,ditto,ditto,ditto,5:20,7:00 pm,12:16,,,"arrival has no AM/PM; same phone number as the 27/08 room 807 entry, roll number differs by one digit"
