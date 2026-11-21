@@ -1,12 +1,12 @@
-# Research: Improving Hostel Gate Return Monitoring at Gate 4
+# Research: Improving Hostel Gate Return Monitoring at GH-3 gate
 
 **By:** Esha Panwar, M.Tech, IIIT Allahabad\
 **Date:** 21 November 2026\
-**Place:** Gate 4, IIIT Allahabad (Jhalwa campus)
+**Place:** Girls-Hostel-3 Gate, IIIT Allahabad (Jhalwa campus)
 
 ## The Problem
 
-At Hostel Gate 4, the security guard maintains student movement records in a physical register. At the end of the day, the guard has to manually check the register to identify girls who have not returned yet, students who arrived after the 10 PM curfew, and entries that may be incorrect or fake and therefore need verification. This manual checking takes time, even though the guard needs to quickly identify these cases and inform the warden—particularly when a girl has not arrived or has returned late, which is important for student safety. I want to build a simple tool that organizes the movement records and quickly highlights students who are still out, late arrivals after 10 PM, and suspicious or incomplete entries for the guard to verify and report to the warden.
+At GH-3 gate, the security guard maintains student movement records in a physical register. At the end of the day, the guard has to manually check the register to identify girls who have not returned yet, students who arrived after the 10 PM curfew, and entries that may be incorrect or fake and therefore need verification. This manual checking takes time, even though the guard needs to quickly identify these cases and inform the warden—particularly when a girl has not arrived or has returned late, which is important for student safety. I want to build a simple tool that organizes the movement records and quickly highlights students who are still out, late arrivals after 10 PM, and suspicious or incomplete entries for the guard to verify and report to the warden.
 
 ## Person I Am Helping
 
